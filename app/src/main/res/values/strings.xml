@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Check Mahasiswa Informatika</string>
+    <string name="nrp">NRP</string>
+    <string name="nrpExample">*1930400xx</string>
+    <string name="nama">Nama</string>
+    <string name="namaExample">*Praktikkan</string>
+    <string name="submit">Submit</string>
+    <string name="reset">reset</string>
+</resources>
